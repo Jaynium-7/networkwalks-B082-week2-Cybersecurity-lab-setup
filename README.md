@@ -293,6 +293,10 @@ Overall, this week was all about learning the stage that one must go through bef
 
 
 ## Author
-Joseph Victor Ese-Osa
+## Joseph Victor Ese-Osa
+
+
 Role: networkwalks Cybersecurity Intern Batch: B082
+
+
 LinkedIn: https://lnkd.in/p/d_Jtw7Pf
