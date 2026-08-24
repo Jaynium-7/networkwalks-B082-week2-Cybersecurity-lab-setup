@@ -290,3 +290,9 @@ Overall, this week was all about learning the stage that one must go through bef
  ## Zenmap
 ![Zenmap Ping Scan Results](screenshots/wk2_networkwalks_screenshots/009_zenmap_pingscan.png)
 ![Zenmap Ping Scan Results](screenshots/wk2_networkwalks_screenshots/009_zenmap_pingscan(1).png)
+
+
+## Author
+Joseph Victor Ese-Osa
+Role: networkwalks Cybersecurity Intern Batch: B082
+LinkedIn: https://lnkd.in/p/d_Jtw7Pf
